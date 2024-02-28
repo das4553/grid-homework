@@ -34,7 +34,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: darkblue;
+  color: navy;
 }
 .grid {
   display: grid;
