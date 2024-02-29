@@ -12,6 +12,7 @@ body {
 .container {
   padding: 20px 10%;
   margin: auto;
+  width: 80%;
 }
 
 h2 {
